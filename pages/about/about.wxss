@@ -1,0 +1,30 @@
+/* pages/about/about.wxss */
+/*.container{
+  background-color: #eee;
+  height: 100vh;
+
+  text-align: center;
+}
+
+text{
+  display: block;
+}
+
+image,text{
+  margin-bottom: 40px;
+}*/
+
+
+.about-banner{
+  width:375rpx;
+  height:375rpx;
+  border-radius: 50%
+}
+
+.nav-default{
+  color: blue
+}
+
+.nav-hover{
+  color: red;
+}
